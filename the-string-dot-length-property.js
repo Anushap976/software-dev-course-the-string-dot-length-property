@@ -25,6 +25,15 @@ let lengthTwo;   // Length of stringTwo
 let lengthThree; // Length of stringThree
 
 // Your code here
+// Your task: Assign the length of each string to the corresponding variable
+lengthOne = stringOne.length;     // find Length of stringOne  
+lengthTwo = stringTwo.length;     // find Length of stringTwo
+lengthThree = stringThree.length; // find Length of stringThree
+
+// Print console output to get length of string
+console.log("Length of " + stringOne + " is "  + lengthOne);
+console.log("Length of " + stringTwo + " is "  + lengthTwo); 
+console.log("Length of " + stringThree + " is "  + lengthThree); 
 
 
 
